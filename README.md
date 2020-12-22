@@ -1,6 +1,6 @@
 # RL_gym
 
-Applying different RL algorithms in games by gym.
+Trying out different RL algorithms on different gym environments.
 
 ## Cartpole
 
@@ -20,7 +20,7 @@ Applying different RL algorithms in games by gym.
 | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | <div align="center">**Dueling DQN**</div>                   | <div align="center">**A2C**</div>                            |
 
-## LunarLanderContinuous
+## Lunar Lander Continuous
 
 | <div align="center"><img src="assets/LLC-final_DDPG.gif"  /></div> |
 | ------------------------------------------------------------ |
@@ -36,24 +36,4 @@ Applying different RL algorithms in games by gym.
 * [Understanding Actor Critic Methods and A2C](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
 * [Keras DDPG Example](https://keras.io/examples/rl/ddpg_pendulum/)
 
-## Key Terminology
-
-* On-Policy
-
-* Off-Policy
-* states and observations
-* action spaces
-* policies
-  * Deterministic 
-  * Stochastic
-    * Categorical policy
-    * Diagonal Gaussian policy
-* trajectories (episodes or rollouts)
-* reward and return
-* value functions
-  * On-Policy value function
-  * On-Policy action-value function
-  * Optimal value function
-  * Optimal action-value function
-* 
-
+<div align="center"><small><a href="https://github.com/vstark21">&copy V I S H W A S</a></small></div>
