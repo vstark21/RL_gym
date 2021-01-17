@@ -87,7 +87,7 @@ Formula for the decomposition of Q-value:
 
 Here is the pseudo code for **TD3**
 
-<div align="center"><img src="assets/TD3.jpg"/></div>
+<div align="center"><img src="assets/TD3.jpg" width="80%"/></div>
 
 ---
 
