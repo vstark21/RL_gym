@@ -12,6 +12,8 @@ Implementing different reinforcement learning algorithms on different gym enviro
 
 <div align="center"><img src="assets/A2C.jpg"/></div>
 
+---
+
 <table align='center'>
   <tr>
     <tb><div align="center"><img src="assets/AB-final_A2C.gif"/></div></tb>
@@ -27,11 +29,13 @@ Implementing different reinforcement learning algorithms on different gym enviro
 
 **DDPG** is a off-policy, model-free reinforcement learning algorithm. Here is the pseudo code for **DDPG**
 
-<div align="center"><img src="assets/DDPG.jpg"/></div>
+<div align="center"><img src="assets/DDPG.jpg" width="80%"/></div>
+
+---
 
 <table align='center'>
   <tr>
-    <tb><span align="center"><img src="assets/LLC-final_DDPG.gif"  /></span></tb>
+    <tb><div align="center"><img src="assets/LLC-final_DDPG.gif"/></div></tb>
   </tr>
   <tr>
        <tb><div align="center">Agents trained using DDPG playing pendulum and lunar lander games.</div></tb>
@@ -44,6 +48,8 @@ Implementing different reinforcement learning algorithms on different gym enviro
 **Double DQN** is a off-policy, model-free reinforcement learning algorithm. Here is the pseudo code for **Double DQN**
 
 <div align="center"><img src="assets/Double_DQN.jpg"/></div>
+
+---
 
 <table align='center'>
   <tr>
@@ -66,6 +72,8 @@ Formula for the decomposition of Q-value:
 - **α** parameterizes output stream for advantage function **Α**.
 - **β** parameterizes output stream for value function **V**.
 
+---
+
 <table align='center'>
   <tr>
     <tb><div align="center"><img src="assets/AB-final.gif" /></div></tb>
@@ -80,6 +88,8 @@ Formula for the decomposition of Q-value:
 Here is the pseudo code for **TD3**
 
 <div align="center"><img src="assets/TD3.jpg"/></div>
+
+---
 
 <table align='center'>
   <tr>
