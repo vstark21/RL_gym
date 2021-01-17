@@ -22,8 +22,6 @@ And tested on these environments.
 
 <div align="center"><img src="assets/A2C.jpg" width="80%"/></div>
 
-<br>
-
 <table align='center'>
   <tr>
     <tb><div align="center"><img src="assets/AB-final_A2C.gif"/></div></tb>
@@ -48,7 +46,7 @@ And tested on these environments.
     <tb><div align="center"><img src="assets/LLC-final_DDPG.gif"/></div></tb>
   </tr>
   <tr>
-       <tb><div align="center">Agents trained using DDPG playing pendulum and lunar lander games.</div></tb>
+       <tb><div align="center">Agent trained using DDPG playing lunar lander game.</div></tb>
   </tr>
 </table>
 
@@ -58,8 +56,6 @@ And tested on these environments.
 **Double DQN** is a off-policy, model-free reinforcement learning algorithm. Here is the pseudo code for **Double DQN**
 
 <div align="center"><img src="assets/Double_DQN.jpg" width="80%"/></div>
-
-<br>
 
 <table align='center'>
   <tr>
@@ -82,8 +78,6 @@ Formula for the decomposition of Q-value:
 - **α** parameterizes output stream for advantage function **Α**.
 - **β** parameterizes output stream for value function **V**.
 
-<br>
-
 <table align='center'>
   <tr>
     <tb><div align="center"><img src="assets/AB-final.gif" /></div></tb>
@@ -95,7 +89,7 @@ Formula for the decomposition of Q-value:
 
 ## TD3
 
-Here is the pseudo code for **TD3**
+**TD3** is a off-policy, model-free reinforcement learning algorithm. Here is the pseudo code for **TD3**
 
 <div align="center"><img src="assets/TD3.jpg" width="80%"/></div>
 
