@@ -6,8 +6,8 @@ These algorithms are implemented in this repo:
 
 * [A2C](#A2C)
 * [DDPG](#DDPG)
-* [Double DQN](#Double DQN)
-* [Dueling DQN](#Dueling DQN)
+* [Double DQN](#Double_DQN)
+* [Dueling DQN](#Dueling_DQN)
 * [TD3](#TD3)
 
 And tested on these environments.
@@ -22,7 +22,7 @@ And tested on these environments.
 
 <div align="center"><img src="assets/A2C.jpg" width="80%"/></div>
 
----
+<br>
 
 <table align='center'>
   <tr>
@@ -41,7 +41,7 @@ And tested on these environments.
 
 <div align="center"><img src="assets/DDPG.jpg" width="80%"/></div>
 
----
+<br>
 
 <table align='center'>
   <tr>
@@ -53,13 +53,13 @@ And tested on these environments.
 </table>
 
 
-## Double DQN
+## Double_DQN
 
 **Double DQN** is a off-policy, model-free reinforcement learning algorithm. Here is the pseudo code for **Double DQN**
 
 <div align="center"><img src="assets/Double_DQN.jpg" width="80%"/></div>
 
----
+<br>
 
 <table align='center'>
   <tr>
@@ -70,7 +70,7 @@ And tested on these environments.
   </tr>
 </table>
 
-## Dueling DQN
+## Dueling_DQN
 
 Similar to DDQN, dueling network contains two separate estimators: one for the state value function and one for the state-dependent action advantage function. 
 
@@ -82,7 +82,7 @@ Formula for the decomposition of Q-value:
 - **α** parameterizes output stream for advantage function **Α**.
 - **β** parameterizes output stream for value function **V**.
 
----
+<br>
 
 <table align='center'>
   <tr>
@@ -99,7 +99,7 @@ Here is the pseudo code for **TD3**
 
 <div align="center"><img src="assets/TD3.jpg" width="80%"/></div>
 
----
+<br>
 
 <table align='center'>
   <tr>
