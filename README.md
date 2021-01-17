@@ -1,6 +1,16 @@
-# RL_gym
+# RL gym
 
-Implementing different reinforcement learning algorithms on different gym environments.
+Implementing different reinforcement learning algorithms on different gym environments. 
+
+These algorithms are implemented in this repo:
+
+* [A2C](#A2C)
+* [DDPG](#DDPG)
+* [Double DQN](#Double DQN)
+* [Dueling DQN](#Dueling DQN)
+* [TD3](#TD3)
+
+And tested on these environments.
 
 | <div align="center"><img src="assets/CP-final_reinforce.gif" /></div> | <div align="center"><img src="assets/Pend_final_DDPG.gif"  /></div> | <div align='center'><img src="assets/AB-final_A2C.gif" /></div> | <div align="center"><img src="assets/LLC-final_DDPG.gif"  /></div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -10,7 +20,7 @@ Implementing different reinforcement learning algorithms on different gym enviro
 
 **A2C** is a on-policy, model-free reinforcement learning algorithm. Here is the pseudo code for **A3C** which is almost similar to **A2C**.
 
-<div align="center"><img src="assets/A2C.jpg"/></div>
+<div align="center"><img src="assets/A2C.jpg" width="80%"/></div>
 
 ---
 
@@ -47,7 +57,7 @@ Implementing different reinforcement learning algorithms on different gym enviro
 
 **Double DQN** is a off-policy, model-free reinforcement learning algorithm. Here is the pseudo code for **Double DQN**
 
-<div align="center"><img src="assets/Double_DQN.jpg"/></div>
+<div align="center"><img src="assets/Double_DQN.jpg" width="80%"/></div>
 
 ---
 
@@ -104,6 +114,7 @@ Here is the pseudo code for **TD3**
 
 * [Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 * [Reinforcement Learning by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7)
+* [OpenAI's Spinning Up Docs](https://spinningup.openai.com/)
 * [Wang et al., Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf)
 * [Dueling Deep Q Networks](https://towardsdatascience.com/dueling-deep-q-networks-81ffab672751)
 * [Deriving Policy Gradients and Implementing REINFORCE](https://medium.com/@thechrisyoon/deriving-policy-gradients-and-implementing-reinforce-f887949bd63)
