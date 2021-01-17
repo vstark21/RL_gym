@@ -31,13 +31,13 @@ Implementing different reinforcement learning algorithms on different gym enviro
 
 <table align='center'>
   <tr>
-    <tb><span align="center"><img src="assets/Pend_final_DDPG.gif"  /></span></tb>
     <tb><span align="center"><img src="assets/LLC-final_DDPG.gif"  /></span></tb>
   </tr>
   <tr>
        <tb><div align="center">Agents trained using DDPG playing pendulum and lunar lander games.</div></tb>
   </tr>
 </table>
+
 
 ## Double DQN
 
