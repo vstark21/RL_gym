@@ -1,6 +1,10 @@
 # RL_gym
 
-Trying out different RL algorithms on different gym environments.
+Implementing different reinforcement learning algorithms on different gym environments.
+
+| <div align="center"><img src="assets/CP-final_reinforce.gif" /></div> | <div align="center"><img src="assets/Pend_final_DDPG.gif"  /></div> | <div align='center'><img src="assets/AB-final_A2C.gif" /></div> | <div align="center"><img src="assets/LLC-final_DDPG.gif"  /></div> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <div align="center">**Cartpole**</div>                       | <div align="center">**Pendulum**</div>                       | <div align="center">**Acrobat**</div>                        | <div align="center">**Lunar Lander**</div>                   |
 
 ## Cartpole
 
